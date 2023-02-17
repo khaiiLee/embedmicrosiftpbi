@@ -1,0 +1,13 @@
+{
+    "authenticationMode": "MasterUser",
+    "authorityUrl": "https://login.microsoftonline.com/",
+    "scopeBase": "https://analysis.windows.net/powerbi/api/.default",
+    "powerBiApiUrl": "https://api.powerbi.com/",
+    "clientId": "31266cc9-c684-46ae-8b53-7871ceee773c",
+    "workspaceId": "92a5d72c-047f-456a-82a8-057d661d888f",
+    "reportId": "849bf90c-64ff-4043-aa3e-5e1efddba782",
+    "pbiUsername": "khai.le@tcdata.vn",
+    "pbiPassword": "showmaker@123",
+    "clientSecret": "",
+    "tenantId": "7a7d3dcf-70fd-4ebb-a423-e776afbcd4b8"
+}
